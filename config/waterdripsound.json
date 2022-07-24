@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "volume": 1.0,
+  "dripChance": 9,
+  "useDripstoneSounds": true,
+  "soundCategory": "block"
+}

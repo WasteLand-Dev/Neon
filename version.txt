@@ -1,0 +1,19 @@
+v9.2.7.44-Release
+Stable
+
+Changelog:
+- Fix many bugs
+
+This modpack works on fabric!
+https://fabricmc.net/
+
+https://wlorigin.cf/
+https://wlorigin.cf/downloadmodpack.html
+https://discord.gg/UBaauaN
+https://t.me/wlorigin
+
+Совет: установите нашу иконку для установки в лаунчере (launcher_logo.png)
+Совет: используйте эти параметры запуска, они помогут добиться большей эффективности :)
+Совет: используйте последнюю версию fabric
+
+-Xmx4096M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
