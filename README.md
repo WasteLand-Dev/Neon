@@ -1,9 +1,11 @@
 # modpacksodium
-```v9.2.7.44-Release```
+```v9.2.7.45-Release```
 ```Stable```
 
 ### Changelog:
-- Fix many bugs
+- Fixed model renderer bug (CIT)
+- Fixed milk bucket
+- Don't unload chunk too early
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
