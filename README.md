@@ -28,6 +28,8 @@
 - Fix normals on the inside of flowing water
 - Added firstPersonCamera bool uniform
 - Updated Slovakian translation (Iris)
+- Update shaders
+- Disable chat encryption
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
