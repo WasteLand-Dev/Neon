@@ -5,6 +5,7 @@
 ### Changelog:
 - Update to 1.19
 - Make modpack lighter
+- Small fixes for async things
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
