@@ -1,11 +1,9 @@
 # modpacksodium
-```v9.2.7.47-Release```
+```v9.2.7.48-Release```
 ```Stable```
 
 ### Changelog:
-- Update to 1.19
-- Make modpack lighter
-- Small fixes for async things
+- Fixes
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
