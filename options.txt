@@ -1,4 +1,4 @@
-version:3117
+version:3120
 autoJump:true
 autoSuggestions:true
 chatColors:true
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","file/SpiritOTHawk-Totem-pv8.zip","continuity/default","file/WastePack Renewed"]
+resourcePacks:["vanilla","Fabric Mods","file/SpiritOTHawk-Totem-pv8.zip","continuity/default","file/WastePack Renewed","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
@@ -113,22 +113,21 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fpsdisplay.toggleFpsOverlay:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.unknown
-key_key.minecraftcapes.gui:key.keyboard.unknown
+key_key.minecraftcapes.gui:key.keyboard.j
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.f7
 key_iris.keybind.toggleShaders:key.keyboard.f9
 key_iris.keybind.shaderPackSelection:key.keyboard.f8
-soundCategory_master:0.5024834
-soundCategory_music:0.20422535
+soundCategory_master:0.5066225
+soundCategory_music:0.07042254
 soundCategory_record:0.11443662
 soundCategory_weather:0.18661971
 soundCategory_block:1.0
 soundCategory_hostile:0.2746479
-soundCategory_neutral:0.14084508
+soundCategory_neutral:0.3028169
 soundCategory_player:1.0
-soundCategory_ambient:0.70246476
+soundCategory_ambient:0.7077465
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

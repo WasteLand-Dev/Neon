@@ -1,9 +1,10 @@
 # modpacksodium
-```v9.2.7.48-Release```
+```v9.2.7.49-Release```
 ```Stable```
 
 ### Changelog:
-- Fixes
+- Update to 1.19.2
+- Updated resourcepacks
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
