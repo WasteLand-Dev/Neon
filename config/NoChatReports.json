@@ -9,8 +9,8 @@
   "hideGrayChatIndicators": true,
   "hideWarningToast": true,
   "alwaysHideReportButton": false,
-  "versionEasterEgg": true,
   "disableTelemetry": true,
   "showReloadButton": true,
+  "whitelistAllServers": false,
   "whitelistedServers": []
 }
