@@ -9,7 +9,7 @@
 			// Key modifier
 			"keyModName": "key.keyboard.unknown",
 			// Command to execute
-			"command": "/login p/mA4]aSy-nA^?5Z",
+			"command": "/login",
 			// Type of Macro. Delayed, Repeating, SingleUse, DisplayOnly
 			"macroType": "SingleUse",
 			// Delay(Milliseconds) used for the delay type.

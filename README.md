@@ -1,10 +1,15 @@
 # modpacksodium
-```v9.2.7.49-Release```
+```v9.2.7.50-Release```
 ```Stable```
 
 ### Changelog:
-- Update to 1.19.2
-- Updated resourcepacks
+- Fix emissives on CTM overlays not using the correct layer
+- Add innerSeams support to all applicable methods (horizontal, vertical, h+v, v+h, top)
+- Slightly improve logging
+- Minor performance improvements (continuity)
+- Fixed transparent icons in custom textures (AppleSkin)
+- Cherished World updated to Minecraft 1.19.2
+- Fixed conflict with No Telemetry mod (integrated in debugify)
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
