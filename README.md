@@ -10,6 +10,7 @@
 - Fixed transparent icons in custom textures (AppleSkin)
 - Cherished World updated to Minecraft 1.19.2
 - Fixed conflict with No Telemetry mod (integrated in debugify)
+- Shaders updated
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
