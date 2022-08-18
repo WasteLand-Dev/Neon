@@ -1,15 +1,21 @@
-v9.2.7.50-Release
+v9.2.7.51-Release
 Stable
 
 Changelog:
-- Fix emissives on CTM overlays not using the correct layer
-- Add innerSeams support to all applicable methods (horizontal, vertical, h+v, v+h, top)
-- Slightly improve logging
-- Minor performance improvements (continuity)
-- Fixed transparent icons in custom textures (AppleSkin)
-- Cherished World updated to Minecraft 1.19.2
-- Fixed conflict with No Telemetry mod (integrated in debugify)
-- Shaders updated
+- Fixed rare cases of GUI Issues caused by multiple key's being pressed at the same time
+- Miscellaneous Tweaks for Linux/MacOS Dependencies (JUnixSocket)
+- Add HealthOverlay mod
+- Fix cloth config dependency not allowing v8 (CullLessLeaves)
+- Rename and validate Mixin class names (Fabric API)
+- Add many more transitive access wideners (Fabric API)
+- Necessary Fabric API modules are now bundled with the NoChatReports itself
+- The mod now features optional integration with Mod Menu and Cloth Config API, allowing for in-game configuration when both are installed on client (NoChatReports)
+- Updated Polish translation (NoChatReports)
+- Updated Spanish translation (NoChatReports)
+- Added Danish translation (NoChatReports)
+- Added Slovakian translation (NoChatReports)
+- ServerData is now remembered in automatic reconnects. Should fix the bug with Xaero's Worldmap resets
+- Lower memory usage of biome cache
 
 This modpack works on fabric!
 https://fabricmc.net/
