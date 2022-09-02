@@ -1,21 +1,8 @@
-v9.2.7.51-Release
+v9.2.7.52-Release
 Stable
 
 Changelog:
-- Fixed rare cases of GUI Issues caused by multiple key's being pressed at the same time
-- Miscellaneous Tweaks for Linux/MacOS Dependencies (JUnixSocket)
-- Add HealthOverlay mod
-- Fix cloth config dependency not allowing v8 (CullLessLeaves)
-- Rename and validate Mixin class names (Fabric API)
-- Add many more transitive access wideners (Fabric API)
-- Necessary Fabric API modules are now bundled with the NoChatReports itself
-- The mod now features optional integration with Mod Menu and Cloth Config API, allowing for in-game configuration when both are installed on client (NoChatReports)
-- Updated Polish translation (NoChatReports)
-- Updated Spanish translation (NoChatReports)
-- Added Danish translation (NoChatReports)
-- Added Slovakian translation (NoChatReports)
-- ServerData is now remembered in automatic reconnects. Should fix the bug with Xaero's Worldmap resets
-- Lower memory usage of biome cache
+- Very many improvements!
 
 This modpack works on fabric!
 https://fabricmc.net/
