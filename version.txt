@@ -23,6 +23,13 @@ Changelog:
     Updated Kirin to 1.11.1
 - finally adding the long-awaited PBR support.
 - fixes old hand lighting on SEUS Renewed and similar packs.
+- Jar Signing Capabilities have been removed, due to obsolete technology (CraftPresence)
+- Added &worldday& as a new sub-argument for &worldinfo&
+- Breaking: Biomes now use an identifier based system, similar to how the dimension module works
+- This means any custom entries in the Biome Settings will need to migrate to these names
+- Fixed a rare issue where initialization can occur while the minecraft session is null
+- Fixed an issue where the starting page in Paginated Screens was incorrect, causing various issues
+- Backend: Fixed the formatToId param from StringUtils#formatIdentifier being ignored when converting from legacy->modern naming
 
 This modpack works on fabric!
 https://fabricmc.net/
