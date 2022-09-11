@@ -31,6 +31,8 @@
 - Fixed a rare issue where initialization can occur while the minecraft session is null
 - Fixed an issue where the starting page in Paginated Screens was incorrect, causing various issues
 - Backend: Fixed the formatToId param from StringUtils#formatIdentifier being ignored when converting from legacy->modern naming
+- Iris hotfix
+- YACL improvements
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
