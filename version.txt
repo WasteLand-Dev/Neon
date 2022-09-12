@@ -32,6 +32,13 @@ Changelog:
 - Backend: Fixed the formatToId param from StringUtils#formatIdentifier being ignored when converting from legacy->modern naming
 - Iris hotfix
 - YACL improvements
+- Transfer API improvements 4
+- Item Group API: refactor & add more javadoc
+- Fix crash when replacing SimpleRegistry contents
+- Added doc to SculkSensorRegistry
+- Refactor Dimension API and fix a bug
+- Add overwriting screen handler factory
+- Add publish checkstyle report action
 
 This modpack works on fabric!
 https://fabricmc.net/
