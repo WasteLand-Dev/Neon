@@ -1,11 +1,17 @@
 # modpacksodium
-```v9.2.7.54-Release```
+```v9.2.7.55-Release```
 ```Stable```
 
 ### Changelog:
-- Fixed NoChatReports not recognizing BungeeCord/Waterfall disconnects correctly
-- YACL improvements
-- Fixed missing config button in ShulkerBoxTooltip due to incompatibility with later versions of cloth config.
+- Improvements in YACL
+- Update NoChatReports
+- Update FabricAPI
+- Fix description loading causing long load times
+- Fix MC-59810 and disable conflicted fixes
+- Further improve MC-26757
+- Better compatibility for some fixes - Techniques of modifying certain game code have been improved.
+- Update CraftPresence
+- Update 3DSkinLayers
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
