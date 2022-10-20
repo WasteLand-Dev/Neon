@@ -1,11 +1,11 @@
 {
-  "skipWarning": false,
+  "skipWarning": true,
   "enableEncryption": false,
   "encryptPublic": true,
   "showEncryptionButton": true,
   "encryptionKey": "+qQANdgEifL6B8Ji9hm18Q\u003d\u003d",
   "encryptionPassphrase": "",
-  "algorithmName": "AES/CFB8+Base64",
+  "algorithmName": "AES/ECB+Base64",
   "encryptableCommands": [
     "msg:1",
     "w:1",

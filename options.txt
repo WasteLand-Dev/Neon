@@ -14,7 +14,7 @@ reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -25,14 +25,14 @@ fov:0.125
 screenEffectScale:0.9049296
 fovEffectScale:0.9259559
 darknessEffectScale:1.0
-gamma:1.0
+gamma:0.9
 renderDistance:15
 simulationDistance:9
 entityDistanceScaling:2.0
 guiScale:0
 particles:0
 maxFps:70
-graphicsMode:2
+graphicsMode:1
 ao:2
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
