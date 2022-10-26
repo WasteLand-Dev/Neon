@@ -3,6 +3,7 @@
   "enableEncryption": false,
   "encryptPublic": true,
   "showEncryptionButton": true,
+  "showEncryptionIndicators": true,
   "encryptionKey": "+qQANdgEifL6B8Ji9hm18Q\u003d\u003d",
   "encryptionPassphrase": "",
   "algorithmName": "AES/ECB+Base64",

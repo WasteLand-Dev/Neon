@@ -1,8 +1,16 @@
-v9.2.7.56-Release
+v9.2.7.57-Release
 Stable
 
+Happy last autumn month!
+
 Changelog:
-- Bug fixes and troubleshoot memory leaks.
+- Update CraftPresence
+- Update Enhancedblockentities
+- Update NoChatReports
+- Update ShulkerBoxTooltip
+- Update VMP
+- Update YetAnotherConfigLib
+- Update shaders
 
 This modpack works on fabric!
 https://fabricmc.net/
