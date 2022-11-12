@@ -1,16 +1,17 @@
-v9.2.7.58-Release
+v9.2.7.59-Release
 Stable
 
 Happy last autumn month!
 
 Changelog:
-- Update Debugify to 2.8.0
-- Update FallingLeaves to 1.12.4
-- Update Lithium to 0.10.1
-- Update NoChatReports to 1.13.11
-- Update ShulkerBoxTooltip to 3.2.2
-- Update Visuality to 0.5.3
-- Update Complementary Reimagined shaders to 1.3.1
+- Update betterfpsdist to 2.0
+- Update CraftPresence to 1.9.6
+- Update fabric api to 0.66.0
+- Update FastLoad to 1.3.3
+- Update lithium to 0.10.2
+- Update modmenu to 4.1.0
+- Update Presence Footsteps to 1.6.3
+- Update Complementary Reimagined shaders to 1.3.2
 
 This modpack works on fabric!
 https://fabricmc.net/
