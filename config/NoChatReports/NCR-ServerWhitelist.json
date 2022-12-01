@@ -1,5 +1,6 @@
 {
   "whitelistedServers": [
-    "localhost:25569"
+    "localhost:25569",
+    "play.mccisland.net:25565"
   ]
 }

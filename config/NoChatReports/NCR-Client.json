@@ -18,5 +18,7 @@
   "reconnectAwaitSeconds": 4,
   "postDisconnectAwaitSeconds": 10,
   "signingCheckDelaySeconds": 43200,
-  "serverSigningChecks": {}
+  "serverSigningChecks": {
+    "play.mccisland.net:25565": 1668284681
+  }
 }
