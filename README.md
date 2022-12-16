@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.2.7.60-Release```
+```v9.2.7.60-Final```
 ```Stable```
 
 Happy New Year!
