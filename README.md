@@ -1,25 +1,11 @@
 # modpacksodium
-```v9.2.7.60-Release```
+```v9.2.7.61-Release```
 ```Stable```
 
 Happy New Year!
 
 ### Changelog:
-- New! Advancements enlager updated to 1.19.2
-- New! Added fastanim mod
-- New! Replace notenoughcrashes with mixintrace
-- New! Added Extended clouds
-- Updated CraftPresence to 2.0.0
-- Updated fabric api to 0.68.0
-- Updated falling leaves to 1.13.0
-- Updated fastload to 2.4.4
-- Updated ferritecore to 5.0.3
-- Updated iris to 1.4.3
-- Updated mcwifipnp to 1.5.9
-- Updated modmenu to 4.1.1
-- Updated visuality to 0.5.5
-- Updated vmp to 7.15
-- Updated YetAnotherConfigLib to 1.7.1
+- Update to 1.19.3
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
