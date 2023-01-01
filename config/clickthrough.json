@@ -1,36 +1,36 @@
 {
   "clickthrough.config.sneaktodye": {
-    "key": "РџСЂРёСЃРµСЃС‚СЊ РґР»СЏ РѕРєСЂР°СЃРєРё С‚Р°Р±Р»РёС‡РµРє",
+    "key": "Присесть для окраски табличек",
     "toolTip": "clickthrough.config.tt.sneaktodye",
     "value": true,
     "defaultValue": true
   },
   "clickthrough.config.ignore.3": {
-    "key": "РћС‚РєР». РґР»СЏ С‚Р°Р±Р»РёС‡РµРє СЃРѕ СЃС‚СЂРѕРєРѕР№ 3: ",
+    "key": "Откл. для табличек со строкой 3: ",
     "toolTip": "clickthrough.config.tt.ignore.3",
     "value": "b\\s*\\d+|b\\s*\\d+\\s*:\\s*\\d+\\s*s|\\d+\\s*s",
     "defaultValue": "b\\s*\\d+|b\\s*\\d+\\s*:\\s*\\d+\\s*s|\\d+\\s*s"
   },
   "clickthrough.config.ignore.4": {
-    "key": "РћС‚РєР». РґР»СЏ С‚Р°Р±Р»РёС‡РµРє СЃРѕ СЃС‚СЂРѕРєРѕР№ 4: ",
+    "key": "Откл. для табличек со строкой 4: ",
     "toolTip": "clickthrough.config.tt.ignore.4",
     "value": "",
     "defaultValue": ""
   },
   "clickthrough.config.onlycontainers": {
-    "key": "РћС‚РєСЂС‹РІР°С‚СЊ С‚РѕР»СЊРєРѕ С…СЂР°РЅРёР»РёС‰Р°",
+    "key": "Открывать только хранилища",
     "toolTip": "clickthrough.config.tt.onlycontainers",
     "value": true,
     "defaultValue": false
   },
   "clickthrough.config.ignore.1": {
-    "key": "РћС‚РєР». РґР»СЏ С‚Р°Р±Р»РёС‡РµРє СЃРѕ СЃС‚СЂРѕРєРѕР№ 1: ",
+    "key": "Откл. для табличек со строкой 1: ",
     "toolTip": "clickthrough.config.tt.ignore.1",
     "value": "\\[\\D+\\]",
     "defaultValue": "\\[\\D+\\]"
   },
   "clickthrough.config.ignore.2": {
-    "key": "РћС‚РєР». РґР»СЏ С‚Р°Р±Р»РёС‡РµРє СЃРѕ СЃС‚СЂРѕРєРѕР№ 2: ",
+    "key": "Откл. для табличек со строкой 2: ",
     "toolTip": "clickthrough.config.tt.ignore.2",
     "value": "",
     "defaultValue": ""
