@@ -1,11 +1,17 @@
 # modpacksodium
-```v9.2.7.61-Release```
+```v9.2.7.62-Release```
 ```Stable```
 
 Happy New Year!
 
 ### Changelog:
-- Update to 1.19.3
+- New! Update CITResewn to 1.1.3 (1.19.3)
+- New! Update FastAnim to 1.5.7 (1.19.3)
+- New! Update HealthOverlay to 8.0.2 (1.19.3)
+- Update fabric api to 0.71.0
+- Update indium to 1.0.12
+- Update iris to 1.5.1
+- Update sodium to 0.4.8
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
