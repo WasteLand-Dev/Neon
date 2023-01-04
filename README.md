@@ -15,7 +15,7 @@ Happy New Year!
 https://fabricmc.net/
 
 [Site]: https://wlorigin.cf/
-[Download]: https://wlorigin.cf/downloadmodpack.html
+[Download]: https://wlorigin.cf/archive.html
 [Discord]: https://discord.gg/UBaauaN
 [Telegram]: https://t.me/wlorigin
 
