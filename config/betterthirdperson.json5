@@ -1,16 +1,8 @@
 {
-	// Align player to camera on left & right clicks
+	// Align player to camera on left & right clicks (delayed by Flick Timeout)
 	"aimOnInteract": true,
-	// How long player will be aligned to camera after left & right clicks
-	"aimDuration": 40,
-	// Angle in degrees within the player will slightly follow camera yaw (while standing still)
+	// Angle in degrees within the player will slightly follow camera rotation
 	"followYaw": 45,
 	// Does camera should rotate freely during elytra flight
-	"freeCameraDuringElytraFlight": false,
-	// Completely remove third-person front view
-	"skipThirdPersonFrontView": false,
-	// How fast player changes movement direction in third-person
-	"playerRotationSpeed": 50,
-	// How fast player pitch follows camera pitch in third-person
-	"pitchChangeSpeed": 65
+	"freeCameraDuringElytraFlight": false
 }
