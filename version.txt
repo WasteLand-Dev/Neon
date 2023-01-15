@@ -1,16 +1,21 @@
-v9.2.7.62-Release
+v9.3.7.63-Release
 Stable
 
-Happy New Year!
+Happy Old New Year!
 
 Changelog:
-- New! Update CITResewn to 1.1.3 (1.19.3)
-- New! Update FastAnim to 1.5.7 (1.19.3)
-- New! Update HealthOverlay to 8.0.2 (1.19.3)
-- Update fabric api to 0.71.0
-- Update indium to 1.0.12
-- Update iris to 1.5.1
-- Update sodium to 0.4.8
+- New! Add betterstats mod (2.1)
+- New! Add customsplashscreen (1.2.0)
+- New! Add screenshottoclipboard (1.0.9)
+- New! Add smoothswapping (0.6.1)
+- New! Add snowimagined shader (1.1)
+- New! Add solas shader (1.4)
+- New! Add VanillAA shader
+- New! Add Voyager shader (2.0.5)
+- Update c2me to alpha 10.0
+- Update clumps to build 16
+- Update craftpresence to 2.0.0 alpha3
+- Update fabricapi to 0.72.0
 
 This modpack works on fabric!
 https://fabricmc.net/

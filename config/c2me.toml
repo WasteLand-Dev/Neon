@@ -54,15 +54,18 @@ defaultGlobalExecutorParallelismExpression = "default"
 
 # Configuration for general optimizations
 [generalOptimizations]
-	# (Default: true) Whether to enable mid-tick chunk tasks  
+	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
 	# This helps chunks loading and generating under high MSPT but may raise  
 	# MSPT when chunks are loading or generating  
 	#  
+	# It is generally not recommended to adjust this value unless you know  
+	# what you are doing  
+	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	doMidTickChunkTasks = "default"
+	midTickChunkTasksInterval = "default"
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = true
@@ -113,9 +116,9 @@ defaultGlobalExecutorParallelismExpression = "default"
 	chunkStreamVersion = 1
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = true
-	# (Default: 1536) Soft limit for io worker nbt cache
+	# (Default: 8192) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
-	# (Default: 6144) Hard limit for io worker nbt cache
+	# (Default: 32678) Hard limit for io worker nbt cache
 	chunkDataCacheLimit = "default"
 
 [clientSideConfig]
