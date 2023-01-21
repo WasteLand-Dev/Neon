@@ -1,22 +1,16 @@
 # modpacksodium
-```v9.3.7.63-Release```
+```v9.3.7.64-Release```
 ```Stable```
 
-Happy Old New Year!
+Happy winter!
 
 ### Changelog:
-- New! Add betterstats mod (2.1)
-- New! Add customsplashscreen (1.2.0)
-- New! Add screenshottoclipboard (1.0.9)
-- New! Add smoothswapping (0.6.1)
-- New! Add snowimagined shader (1.1)
-- New! Add solas shader (1.4)
-- New! Add VanillAA shader
-- New! Add Voyager shader (2.0.5)
-- Update c2me to alpha 10.0
-- Update clumps to build 16
-- Update craftpresence to 2.0.0 alpha3
-- Update fabricapi to 0.72.0
+- New! Add Rethinking-voxels beta12
+- Update betterfpsdist to 2.4
+- Update fabricapi to 0.73.0
+- Update fallingleaves to 1.14.4
+- Update fastload to 2.6.11
+- Remove shaderpack with exploit (Solas shader)
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
