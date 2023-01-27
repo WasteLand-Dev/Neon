@@ -1,16 +1,21 @@
 # modpacksodium
-```v9.3.7.64-Release```
+```v9.3.8.65-Release```
 ```Stable```
 
 Happy winter!
 
 ### Changelog:
-- New! Add Rethinking-voxels beta12
-- Update betterfpsdist to 2.4
-- Update fabricapi to 0.73.0
-- Update fallingleaves to 1.14.4
-- Update fastload to 2.6.11
-- Remove shaderpack with exploit (Solas shader)
+- New! Add new resourcepack darkness-e1700
+- New! Add new launcherlogo
+- New! Add ComplementaryShaders 4.7
+- New! Add Epoch shader 1.3.1
+- New! Add musk rose shader 3.5
+- New! Add SuperDuper Vanilla shader
+- New! Add YoFPS shader
+- Update rethinking-voxels to beta14
+- Update craftpresence config
+- Update NoChatReports to 2.0.0
+- Update vmp to 7.43
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
