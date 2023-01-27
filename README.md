@@ -8,8 +8,6 @@ Happy winter!
 - New! Add new resourcepack darkness-e1700
 - New! Add new launcherlogo
 - New! Add ComplementaryShaders 4.7
-- New! Add Epoch shader 1.3.1
-- New! Add musk rose shader 3.5
 - New! Add SuperDuper Vanilla shader
 - New! Add YoFPS shader
 - Update rethinking-voxels to beta14
