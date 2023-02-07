@@ -1,19 +1,19 @@
 # modpacksodium
-```v9.3.8.65-Release```
+```v9.4.8.67-Release```
 ```Stable```
 
 Happy winter!
 
 ### Changelog:
-- New! Add new resourcepack darkness-e1700
-- New! Add new launcherlogo
-- New! Add ComplementaryShaders 4.7
-- New! Add SuperDuper Vanilla shader
-- New! Add YoFPS shader
-- Update rethinking-voxels to beta14
-- Update craftpresence config
-- Update NoChatReports to 2.0.0
-- Update vmp to 7.43
+- New! Update advancements enlarger to 1.19.3
+- New! Update sodium to 0.4.9 (include performance fixes)
+- New! Update iris to 1.5.2 (include performance fixes)
+- New! Add new resourcepack: Paler birch wood
+- Update betterstats to 2.2.1
+- Update fabricapi to 0.73.2
+- Update indium to 1.0.13
+- Update vmp to 7.44
+- Update rethinking-voxels to beta16
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
