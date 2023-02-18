@@ -1,19 +1,14 @@
 # modpacksodium
-```v9.4.8.67-Release```
+```v9.4.8.68-Release```
 ```Stable```
 
 Happy winter!
 
 ### Changelog:
-- New! Update advancements enlarger to 1.19.3
-- New! Update sodium to 0.4.9 (include performance fixes)
-- New! Update iris to 1.5.2 (include performance fixes)
-- New! Add new resourcepack: Paler birch wood
-- Update betterstats to 2.2.1
-- Update fabricapi to 0.73.2
-- Update indium to 1.0.13
-- Update vmp to 7.44
-- Update rethinking-voxels to beta16
+- Update fabric-api to 0.74.0
+- Update indium to 1.0.14
+- Update modmenu to 5.1.0-beta4
+- Update rethinking-voxels to beta17
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
