@@ -9,6 +9,7 @@ Happy winter!
 - Update indium to 1.0.14
 - Update modmenu to 5.1.0-beta4
 - Update rethinking-voxels to beta17
+- Update entity-culling to 1.6.1
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
