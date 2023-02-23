@@ -28,7 +28,7 @@ https://fabricmc.net/
     <a href="https://github.com/badges/shields/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/WasteLand-Dev/modpacksodium" /></a>
     <a href="https://discord.gg/UBaauaN">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+        <img src="https://img.shields.io/discord/716326875613364277?logo=discord"
             alt="chat on Discord"></a>
 </p>
 
