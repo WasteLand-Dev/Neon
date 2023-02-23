@@ -21,6 +21,17 @@ https://fabricmc.net/
 
 [Our site][Site] - [Download][Download] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram]
 
+</p>
+<p align="center">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/WasteLand-Dev/modpacksodium" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/WasteLand-Dev/modpacksodium" /></a>
+    <a href="https://discord.gg/UBaauaN">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+</p>
+
 ```
 Совет: установите нашу иконку для установки в лаунчере (launcher_logo.png)
 Совет: используйте эти параметры запуска, они помогут добиться большей эффективности :)
