@@ -32,6 +32,14 @@ https://fabricmc.net/
             alt="chat on Discord"></a>
 </p>
 
+## Work on:
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ```
 Совет: установите нашу иконку для установки в лаунчере (launcher_logo.png)
 Совет: используйте эти параметры запуска, они помогут добиться большей эффективности :)
