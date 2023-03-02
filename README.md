@@ -1,15 +1,19 @@
 # modpacksodium
-```v9.4.8.68-Release```
+```v9.4.8.69-Release```
 ```Stable```
 
 Happy winter!
 
 ### Changelog:
-- Update fabric-api to 0.74.0
-- Update indium to 1.0.14
-- Update modmenu to 5.1.0-beta4
-- Update rethinking-voxels to beta17
-- Update entity-culling to 1.6.1
+- New! Update moderate-loading-screen to 1.2.0 (1.19.3)
+- Update CraftPresence to 2.0.0 beta 2
+- Update BetterStats to 2.2.2
+- Update eating-animation to 1.9.2
+- Update fabric-api to 0.75.1
+- Add owo-lib
+- Update visuality to 0.6.1
+- Update ComplementaryReimagined to 2.0.2
+- Update SuperDuperVanilla
 
 ```This modpack works on fabric!```
 https://fabricmc.net/

@@ -110,7 +110,7 @@
 			       "[ROW]": Current health row.
 			       "[MAX_ROW]": Max health row.
 			*/
-			"text_health": "§4[HEALTH]§7/§2[MAX]",
+			"text_health": "\u00a74[HEALTH]\u00a77/\u00a72[MAX]",
 			/* Text displayed next to absorption. Minecraft chat color codes are allowed.
 			   In case 'absorption_over_health' is true, this text is displayed at the same position as or left of 'text_health'.
 			   Available variables:
@@ -118,7 +118,7 @@
 			      "[HEARTS]": Current absorption in hearts.
 			      "[ROW]": Current absorption row.
 			*/
-			"text_absorption": "§6[ABSORPTION]"
+			"text_absorption": "\u00a76[ABSORPTION]"
 		}
 	}
 }
