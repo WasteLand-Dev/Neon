@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -32,13 +32,13 @@ simulationDistance:9
 entityDistanceScaling:2.0
 guiScale:0
 particles:0
-maxFps:70
+maxFps:60
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/WastePack_Renewed.zip"]
+resourcePacks:["vanilla","fabric","file/WastePack_Renewed.zip","minecraft:supporteatinganimation"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru

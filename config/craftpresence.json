@@ -315,7 +315,8 @@
       "mc.hypixel.net": "https://api.mcsrvstat.us/icon/mc.hypixel.net",
       "SpiritOTHawk": "https://crafatar.com/avatars/5715706c016848b7aeb268a6f5e41f37",
       "play.mccisland.net": "https://api.mcsrvstat.us/icon/play.mccisland.net",
-      "localhost": "https://api.mcsrvstat.us/icon/localhost"
+      "localhost": "https://api.mcsrvstat.us/icon/localhost",
+      "192.168.0.10": "https://api.mcsrvstat.us/icon/192.168.0.10"
     },
     "dynamicVariables": {
       "default": "Example Text",

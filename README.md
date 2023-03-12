@@ -1,19 +1,21 @@
 # modpacksodium
-```v9.4.8.69-Release```
+```v9.4.10.70-Release```
 ```Stable```
 
-Happy winter!
+Happy spring!
 
 ### Changelog:
-- New! Update moderate-loading-screen to 1.2.0 (1.19.3)
-- Update CraftPresence to 2.0.0 beta 2
-- Update BetterStats to 2.2.2
-- Update eating-animation to 1.9.2
-- Update fabric-api to 0.75.1
-- Add owo-lib
-- Update visuality to 0.6.1
-- Update ComplementaryReimagined to 2.0.2
-- Update SuperDuperVanilla
+- Update 3dskinlayers to 1.5.3
+- New! Add immediatelyfast 1.1.9
+- Update smooth swapping to 7.0
+- Update betterstats to 2.4.1
+- Important! Update enchenced block entities to 0.8
+- Important! Update lithium to 0.11.0
+- Updated memory leak fix to 0.8.0
+- New! Add smoothboot 1.7.1
+- Update complementary reimagined to 2.0.3
+- Update complementary reimagined config
+- Update rethinking-voxels to beta18c 
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
