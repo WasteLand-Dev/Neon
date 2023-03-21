@@ -4,6 +4,9 @@
 
 Happy spring!
 
+## About
+A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
+
 ### Changelog:
 - Update 3dskinlayers to 1.5.3
 - New! Add immediatelyfast 1.1.9
