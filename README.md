@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.4.10.71-Dev1```
+```v9.4.10.71-Dev2```
 ```Stable```
 
 Happy spring!
