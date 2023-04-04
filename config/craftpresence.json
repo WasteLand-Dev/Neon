@@ -1,7 +1,7 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_schemaVersion": 2,
-  "_lastMCVersionId": 761,
+  "_schemaVersion": 3,
+  "_lastMCVersionId": 762,
   "generalSettings": {
     "detectCurseManifest": false,
     "detectMultiMCManifest": false,
