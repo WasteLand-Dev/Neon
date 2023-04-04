@@ -34,7 +34,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
-	asyncScheduling = "default"
+	asyncScheduling = true
 	# (Default: false) Whether to enable this feature
 	enabled = true
 
