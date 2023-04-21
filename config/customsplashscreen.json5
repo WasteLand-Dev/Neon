@@ -18,7 +18,7 @@
 	// Change the style of the boss loading bar
 	"bossBarType": "PROGRESS",
 	"textures": {
-		"BackgroundTexture": "background.png",
+		"BackgroundTexture": "background.jpeg",
 		"MojangLogo": "mojangstudios.png",
 		"Aspect1to1Logo": "mojank.png",
 		"BossBarTexture": "textures/gui/bars.png",

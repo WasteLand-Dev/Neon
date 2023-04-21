@@ -30,15 +30,12 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = true
-	# (Default: false) Whether to enable this feature
-	enabled = true
-
-# Configuration for async scheduling system
-[asyncScheduling]
 	# (Default: true) Whether to enable async and parallel scheduling 
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
+	asyncScheduling = true
+	# (Default: false) Whether to enable this feature
 	enabled = true
 
 # Configuration for vanilla worldgen optimizations
@@ -90,12 +87,12 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
 	compatibilityMode = "default"
+	# (Default: 2) No-tick view distance max concurrent chunk loads 
+	#  Lower this for a better latency and higher this for a faster loading
+	maxConcurrentChunkLoads = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
-	# (Default: 12) No-tick view distance updates per tick 
-	#  Lower this for a better latency and higher this for a faster loading
-	updatesPerTick = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 
@@ -128,4 +125,16 @@ defaultGlobalExecutorParallelismExpression = "default"
 		enabled = "default"
 		# (Default: 35) Max render distance allowed in game options
 		maxViewDistance = "default"
+
+[fixes]
+	# (Default: true) Enforces safe world random access.  
+	# This feature detects unsafe off-thread world random access, helping to find the causes  
+	# of mysterious "Accessing LegacyRandomSource from multiple threads" crash.  
+	# The default behavior is to fail hard when such bad things happens.  
+	# Disabling this option will replace this behavior with a warning.  
+	# 
+	# It is generally not recommended to disable this settings unless you know what you are doing  
+	# 
+	# 
+	enforceSafeWorldRandomAccess = "default"
 

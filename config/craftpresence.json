@@ -1,8 +1,9 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_schemaVersion": 2,
-  "_lastMCVersionId": 761,
+  "_schemaVersion": 3,
+  "_lastMCVersionId": 762,
   "generalSettings": {
+    "detectATLauncherInstance": true,
     "detectCurseManifest": false,
     "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": false,
@@ -185,7 +186,6 @@
     }
   },
   "advancedSettings": {
-    "enableCommands": false,
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,

@@ -1,6 +1,6 @@
 # modpacksodium
-```v9.4.10.70-Final```
-```Stable```
+```v9.4.10.71-Beta1```
+```Unstable```
 
 Happy spring!
 
@@ -8,17 +8,7 @@ Happy spring!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update 3dskinlayers to 1.5.3
-- New! Add immediatelyfast 1.1.9
-- Update smooth swapping to 7.0
-- Update betterstats to 2.4.1
-- Important! Update enchenced block entities to 0.8
-- Important! Update lithium to 0.11.0
-- Updated memory leak fix to 0.8.0
-- New! Add smoothboot 1.7.1
-- Update complementary reimagined to 2.0.3
-- Update complementary reimagined config
-- Update rethinking-voxels to beta18c 
+- Update to 1.19.4
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
