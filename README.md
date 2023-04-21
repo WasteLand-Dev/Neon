@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.4.10.71-Alpha5```
+```v9.4.10.71-Beta1```
 ```Unstable```
 
 Happy spring!
