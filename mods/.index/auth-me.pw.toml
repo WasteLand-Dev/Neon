@@ -1,0 +1,14 @@
+name = "Auth Me"
+filename = "authme-mc1.19.4-6.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/kHOHwnYe/authme-mc1.19.4-6.0.0.jar"
+hash-format = "sha512"
+hash = "24594dc8bbc440f140a48109fb2959c31124f0d08e6233aca589790f3a7ffb950264a294f8a40a335fc6d0c3117d2796df2e44e23e03d4ed473de157caf3c404"
+
+[update]
+[update.modrinth]
+mod-id = "yjgIrBjZ"
+version = "kHOHwnYe"

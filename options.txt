@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/WastePack_Renewed.zip","file/WLandEmeralds.zip","minecraft:supporteatinganimation"]
-incompatibleResourcePacks:["file/WastePack_Renewed.zip","file/WLandEmeralds.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/WastePack_Renewed.zip","file/WLandEmeralds.zip"]
+incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
 soundDevice:""
