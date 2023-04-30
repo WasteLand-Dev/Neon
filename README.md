@@ -17,10 +17,10 @@ https://fabricmc.net/
 [Download]: https://wlorigin.cf/downloadmodpack.html
 [Discord]: https://discord.gg/UBaauaN
 [Telegram]: https://t.me/wlorigin
+[Wiki]: https://wiki.wlorigin.cf
 
-[Our site][Site] - [Download][Download] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram]
+[Our site][Site] - [Download][Download] - [Our Discord][Discord] - [Our telegram channel (RU)][Telegram] - [Wiki][Wiki]
 
-</p>
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/WasteLand-Dev/modpacksodium" /></a>
