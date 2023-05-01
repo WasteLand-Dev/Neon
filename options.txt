@@ -15,7 +15,7 @@ reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.9
-renderDistance:15
+renderDistance:35
 simulationDistance:9
 entityDistanceScaling:2.0
 guiScale:0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/WastePack_Renewed.zip","file/WLandEmeralds.zip"]
+resourcePacks:["vanilla","fabric"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
