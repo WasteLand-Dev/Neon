@@ -1,6 +1,6 @@
 # modpacksodium
 ```v9.4.10.71-Release```
-```Unstable```
+```Stable```
 
 Happy spring!
 
