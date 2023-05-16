@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.4.10.71-Release```
+```v9.4.11.72-Release```
 ```Stable```
 
 Happy spring!
@@ -32,7 +32,6 @@ https://fabricmc.net/
 </p>
 
 ## Work on:
-
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)

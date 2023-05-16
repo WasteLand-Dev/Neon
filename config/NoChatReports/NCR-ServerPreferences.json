@@ -1,5 +1,6 @@
 {
   "signingModes": {
-    "localhost:25565": "NEVER"
+    "localhost:25565": "NEVER",
+    "192.168.0.10:25565": "NEVER"
   }
 }
