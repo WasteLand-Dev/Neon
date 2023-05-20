@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.4.11.72-Release```
+```v9.4.11.73-Release```
 ```Stable```
 
 Happy spring!
@@ -8,7 +8,10 @@ Happy spring!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update to 1.19.4
+- Updated NoChatReports to 2.1.3
+- Updated PresenceFootsteps to 1.8.2
+- Updated betterstats to 2.7.1
+- I really forgot to write a changelog for the past update, in short, it was added mod paperdoll, as well as updated some modifications
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
