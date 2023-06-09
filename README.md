@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.4.11.73-Release```
+```v9.4.11.74-Final```
 ```Stable```
 
 Happy spring!
@@ -8,10 +8,26 @@ Happy spring!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Updated NoChatReports to 2.1.3
-- Updated PresenceFootsteps to 1.8.2
-- Updated betterstats to 2.7.1
-- I really forgot to write a changelog for the past update, in short, it was added mod paperdoll, as well as updated some modifications
+- Update advancements enlarger to 0.3.2
+- Update appleskin to 2.4.4
+- Update betterstats to 2.8.1
+- Update c2me to 0.2.0-alpha.10.60
+- Update CullLessLeaves to 1.2.0
+- Update AuthMe to 6.1.0
+- Update clumps to 10.0.0.3
+- Update Complementary Reimagined to 2.2
+- Update CraftPresence to 2.0.7
+- Update customsplashscreen to 2.1.0
+- New! Add exordium
+- Update fabric-api to 0.83.0
+- Update ImmediatelyFast to 1.1.13
+- Update indium to 1.0.18
+- Update iris to 1.6.4
+- Update modmenu to 6.2.3
+- Update NoChatReports to 2.1.4
+- Update shulkerboxtooltip to 3.3.1
+- Update smoothswapping to 0.9.1
+- Update YetAnotherConfigLib to 3.0.1
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
