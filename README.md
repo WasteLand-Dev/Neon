@@ -2,7 +2,7 @@
 ```v9.4.11.74-Final```
 ```Stable```
 
-Happy spring!
+Happy summer!
 
 ## About
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
