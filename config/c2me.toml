@@ -35,9 +35,7 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	asyncScheduling = true
-	# (Default: false) Whether to enable this feature 
-	#  This feature may cause regression when worker parallelism is lower than 4.
-	# 
+	# (Default: false) Whether to enable this feature
 	enabled = true
 
 # Configuration for vanilla worldgen optimizations

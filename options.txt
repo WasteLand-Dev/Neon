@@ -1,4 +1,4 @@
-version:3337
+version:3465
 autoJump:true
 operatorItemsTab:true
 autoSuggestions:true
@@ -15,7 +15,7 @@ reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/WastePack_Renewed.zip"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
@@ -126,7 +126,6 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.f9
-key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:0.30132452
 soundCategory_music:0.07042254
 soundCategory_record:0.11443662
