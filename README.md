@@ -1,6 +1,6 @@
 # modpacksodium
 ```v9.4.11.75-Pre1```
-```Stable``` ```1.20.1```
+```Unstable``` ```1.20.1```
 
 Happy summer!
 
