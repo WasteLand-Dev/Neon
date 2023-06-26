@@ -36,13 +36,13 @@ simulationDistance:9
 entityDistanceScaling:2.0
 guiScale:0
 particles:0
-maxFps:70
+maxFps:260
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/WastePack_Renewed.zip"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/WastePack_Renewed.zip","file/SpiritOTHawk-Totem-pv9.zip"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
@@ -129,7 +129,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.f9
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
-soundCategory_master:0.30132452
+soundCategory_master:0.40480132450331124
 soundCategory_music:0.4454225352112676
 soundCategory_record:0.11443662
 soundCategory_weather:0.18661971
