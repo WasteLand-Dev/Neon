@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.5.11.75-Release```
+```v9.5.12.75-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,16 +8,8 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update NoChatReports to 2.2.2
-- Update borderless mining to 1.1.8 (1.20.1)
-- Update betterstats to 2.10.2
-- New! Add chunk fade in
-- Update Enhanced block entities to 0.9 (1.20.1)
-- New! Add graphutil
-- New! Add make bubbles pop
-- New! Add modelfix
-- New! Add Bliss 2.0 shaderpack
-- New! Add Soft Voxels lite shaderpack
+- Update Shulkerboxtooltip to 4.0.4
+- New! Add sodium blending registry
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
