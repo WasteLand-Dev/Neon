@@ -13,6 +13,7 @@ A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and ser
 - Update clickthrough to 1.20.1
 - New shader Bliss
 - Update Complementary Reimagined to 2.2.1
+- Update fabric api to 0.85.0
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
