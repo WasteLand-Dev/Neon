@@ -1,4 +1,2 @@
-#Sun Jun 25 17:09:23 MSK 2023
-CLOUD_PLANE0_ENABLED=false
-SSPT_Enabled=false
-godraysEnabled=false
+#Thu Jun 29 12:08:52 MSK 2023
+SVGF_RAD=2

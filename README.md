@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.5.12.75-Release```
+```v9.5.12.76-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,8 +8,11 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update Shulkerboxtooltip to 4.0.4
-- New! Add sodium blending registry
+- Update clumps to 12.0.0.3
+- Update CraftPresence to stable version
+- Update clickthrough to 1.20.1
+- New shader Bliss
+- Update Complementary Reimagined to 2.2.1
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
