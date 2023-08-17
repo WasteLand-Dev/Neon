@@ -1,5 +1,5 @@
 # modpacksodium
-```v9.5.12.76-Release```
+```v20.6.0.1-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,11 +8,42 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update clumps to 12.0.0.3
-- Update CraftPresence to stable version
-- Update clickthrough to 1.20.1
-- New shader Bliss
-- Update Complementary Reimagined to 2.2.1
+- Change configs
+- Update 3dskinlayers
+- New! Add CleanF3
+- Update CraftPresence
+- Update Debugify
+- Update ImmediatelyFast
+- Update alternate-current
+- Update authme
+- Remove betterfpsdist
+- Remove borderlessmining
+- New! Add FogLooksGoodNow
+- Update c2me
+- Update cherishedworlds
+- Update chunksfadein
+- Update cloth-config
+- Update continuity
+- Update fabric-api
+- Update falling leaves
+- New! Add fast random
+- Update fps display
+- New! Add gamemenuremovegfarb
+- New! Add highlight
+- Update indium
+- Update iris
+- New! Add log cleaner
+- Update make bubbles pop
+- New! Add modernfix
+- Update modmenu
+- New! Add reimaginedmenus
+- Remove sodium blending registry
+- Update sodium
+- Update sodium shadowy path blocks
+- Update vmp
+- Update YACL
+- Remove Bliss
+- Remove Sildurs Vibrant shaders
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
@@ -56,4 +87,7 @@ Tip: use the latest version of fabric
 #### Launch options
 ```
 -Xmx4096M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=30 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=200 -XX:G1HeapRegionSize=8M -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:+UseDynamicNumberOfGCThreads -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+UseInterpreter -XX:+RewriteFrequentPairs
+
+### Other mods
+- [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
 ```
