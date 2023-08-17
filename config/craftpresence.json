@@ -325,18 +325,8 @@
         "alpha": 208
       }
     },
-    "buttonBackground": {
-      "start": {
-        "red": 255,
-        "green": 255,
-        "blue": 255,
-        "alpha": 255
-      },
-      "texLocation": "minecraft:textures/gui/widgets.png"
-    },
     "languageId": "en_us",
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
     "configKeyCode": -1
@@ -366,7 +356,8 @@
       "SpiritOTHawk": "https://crafatar.com/avatars/5715706c016848b7aeb268a6f5e41f37",
       "play.mccisland.net": "https://api.mcsrvstat.us/icon/play.mccisland.net",
       "localhost": "https://api.mcsrvstat.us/icon/localhost",
-      "192.168.0.10": "https://api.mcsrvstat.us/icon/192.168.0.10"
+      "192.168.0.10": "https://api.mcsrvstat.us/icon/192.168.0.10",
+      "127.0.0.1": "https://api.mcsrvstat.us/icon/127.0.0.1"
     },
     "dynamicVariables": {
       "default": "Example Text",
