@@ -1,5 +1,5 @@
 # modpacksodium
-```v20.6.0.1-Release```
+```v20.6.0.2-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,42 +8,9 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Change configs
-- Update 3dskinlayers
-- New! Add CleanF3
-- Update CraftPresence
-- Update Debugify
-- Update ImmediatelyFast
-- Update alternate-current
-- Update authme
-- Remove betterfpsdist
-- Remove borderlessmining
-- New! Add FogLooksGoodNow
-- Update c2me
-- Update cherishedworlds
-- Update chunksfadein
-- Update cloth-config
-- Update continuity
-- Update fabric-api
-- Update falling leaves
-- New! Add fast random
-- Update fps display
-- New! Add gamemenuremovegfarb
-- New! Add highlight
-- Update indium
-- Update iris
-- New! Add log cleaner
-- Update make bubbles pop
-- New! Add modernfix
-- Update modmenu
-- New! Add reimaginedmenus
-- Remove sodium blending registry
-- Update sodium
-- Update sodium shadowy path blocks
-- Update vmp
-- Update YACL
-- Remove Bliss
-- Remove Sildurs Vibrant shaders
+- Update Sodium
+- Update Iris
+- Update Indium
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
