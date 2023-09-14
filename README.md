@@ -1,5 +1,5 @@
 # modpacksodium
-```v20.6.0.3-Release```
+```v20.6.0.4-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -9,23 +9,10 @@ A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and ser
 
 ### Changelog:
 - Update CraftPresence
+- Update CullLessLeaves
 - Update ImmediatelyFast
 - Update c2me
-- Update cherishedworlds
-- Update chunksfadein
-- Update dynamic-fps
-- Update fabric-api
-- Update fallingleaves
-- Update memoryleakfix
-- Update modernfix
-- Update modmenu
-- Update reimaginedmenus
-- Update vmp
-- Update yet-another-config-lib
-- Update ComplementaryReimagined
-- Update SoftVoxelsLite config
-- Update VanillAA
-- Update SuperDuperVanilla
+- Change options.txt
 
 
 ```This modpack works on fabric!```

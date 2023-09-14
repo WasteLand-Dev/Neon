@@ -129,7 +129,7 @@ key_key.presencefootsteps.settings:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.f9
-key_key.craftpresence.config_keycode.name:key.keyboard.unknown
+key_key.craftpresence.config_keycode.name:key.keyboard.0
 soundCategory_master:0.40480132450331124
 soundCategory_music:0.4454225352112676
 soundCategory_record:0.11443662
