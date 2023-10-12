@@ -119,8 +119,6 @@ defaultGlobalExecutorParallelismExpression = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
-	# Set to false for the following reasons: 
-	# Incompatible with architectury@9.0.8 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = true
