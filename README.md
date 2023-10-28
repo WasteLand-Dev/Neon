@@ -1,5 +1,5 @@
-# modpacksodium
-```v20.6.0.7-Release```
+# Neon
+```v20.6.0.8-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -8,17 +8,21 @@ Happy summer!
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
 ### Changelog:
-- Update ImmediatelyFast
-- Update appleskin
+- Update configs
+- Update logo
+- Remove all resourcepacks
+- Rebrand
+- Update PresenceFootsteps
 - Update betterstats
-- Update continuity
-- Update dynamic fps
-- Update fabric api
-- Update falling leaves
-- Update modernfix
-- Update Yet Another Config Lib
-- Update Complementary Reimagined shaders
-- Update rethinking voxels
+- New! Add bounced
+- Update cherishedworlds
+- New! Add dynamiccrosshair
+- New! Add emoji-type
+- Update fabric-api
+- Update ferritecore
+- Update iris-mc
+- Update rethinking-voxels
+
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
