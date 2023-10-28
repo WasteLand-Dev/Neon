@@ -23,6 +23,32 @@ A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and ser
 - Update iris-mc
 - Update rethinking-voxels
 
+## List of optimization and bugfix mods:
+```
+ImmediatelyFast - generally optimizes all immediate mode rendering by using a custom buffer implementation which batches draw calls and uploads data to the GPU in a more efficient way.
+Sodium - free and open-source mod for Minecraft 1.16+ clients which greatly improves rendering performance while fixing some graphical issues.
+Starlight - Fabric mod for rewriting the light engine to fix lighting performance and lighting errors.
+Entity Culling - Using async path-tracing to skip rendering Block/Entities that are not visible.
+Memory Leak Fix - A mod that fixes multiple memory leaks in Minecraft. Both server-side & client-side
+lazy-language-loader - lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!
+Enhanced Block Entities - aims to increase the performance of block entity rendering, as well as offer customizability via resource packs.
+Model Gap FIX - This is a simple client mod that fixes https://bugs.mojang.com/browse/MC-73186
+Debugify - a project that fixes over 70 bugs found on the bug tracker in Minecraft.
+Faster Random - this mod is a very basic one, it just replaces every Random.Next() call in MathHelper, giving a modest performance boost, and somehow makes minecraft load faster in some cases.
+Extended Clouds - This mod makes Minecraft cloud's rendering distance bound to your actual render distance. This dramatically improves the cloud's visuals with only a negligible performance difference and makes your world feel way more significant than it actually is.
+Concurrent Chunk Management Engine it's about making the game better threaded and more scalable in regard to world gen and chunk io performance.
+Highlight - This mod changes the visualization of specific blocks in the game that generally would have axis-bound selection boxes to have angled selection boxes to match their model and generally improve the look of the block.
+Clumps - Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. On top of this, it also makes the player immediately collect the orbs once they touch the player, so you are not stuck with a bunch of orbs in your face.
+Krypton - (from Ancient Greek kryptos, "the hidden one") is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work done in the Velocity and Tuinity projects.
+Lithium - a modern, general-purpose optimization mod for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) with the goal of not changing any vanilla mechanics.
+LazyDFU is an optimization mod for Minecraft that defers unnecessary initialization work so that it is only performed if required. Specifically, it makes the initialization of DataFixerUpper "lazy" - that is, it will not immediately create the rules required to migrate data from older versions of Minecraft to newer versions until it actually needs to do so.
+Fastload - Modifies how worlds are loaded to speed up loading times.
+ModernFix - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
+Alternate Current - an efficient and non-locational redstone dust implementation. Its main focus lies in reducing the lag caused by redstone dust, by optimizing the power calculations and reducing the number of shape and block updates emitted. As a side effect of these changes the block update order of redstone dust networks is predictable and intuitive rather than locational and chaotic.
+FerriteCore - This mod reduces the memory usage of Minecraft in a few different ways.
+Very Many Players - A Fabric mod designed to improve server performance at high playercounts.
+FastAnim - Speeds up entity animation calculations!
+```
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
