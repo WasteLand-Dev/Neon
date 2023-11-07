@@ -1,5 +1,5 @@
 # Neon
-```v20.6.0.8-Release```
+```v20.6.0.9-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -7,21 +7,19 @@ Happy summer!
 ## About
 A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and seriously raised performance. Made to play on vanilla (no mods) servers or you can create your own modpack on this.
 
+## Steam deck and controllers compatibility
+- Use [Controlify](https://modrinth.com/mod/controlify)
+- Controlify comes with a huge range of settings to fine-tune each of your controllers individually, including vibration strength, every single controller input bind (no hardcoding!) and more.
+
 ### Changelog:
-- Update configs
-- Update logo
-- Remove all resourcepacks
-- Rebrand
-- Update PresenceFootsteps
+- New! Add cave dust
 - Update betterstats
-- New! Add bounced
-- Update cherishedworlds
-- New! Add dynamiccrosshair
-- New! Add emoji-type
+- Update eating animation
 - Update fabric-api
-- Update ferritecore
-- Update iris-mc
-- Update rethinking-voxels
+- Update fasterrandom
+- Update modernfix
+- Update smoothswapping
+- Update rethinking voxels
 
 ## List of optimization and bugfix mods:
 ```
