@@ -1,4 +1,4 @@
-#Tue Jun 27 12:53:34 MSK 2023
+#Sat Dec 02 17:31:13 MSK 2023
 shadowDistance=64.0
 CLOUD_QUALITY=1
 CMPR=0

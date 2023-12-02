@@ -15,7 +15,7 @@ reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:2
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/WastePack_Renewed.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:2.tcp.eu.ngrok.io:17987
 lang:ru_ru
@@ -119,6 +119,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.cavedust.toggle:key.keyboard.keypad.add
+key_key.cavedust.reload:key.keyboard.keypad.enter
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
@@ -129,7 +131,6 @@ key_key.presencefootsteps.settings:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.f9
-key_key.craftpresence.config_keycode.name:key.keyboard.0
 soundCategory_master:0.40480132450331124
 soundCategory_music:0.4454225352112676
 soundCategory_record:0.11443662

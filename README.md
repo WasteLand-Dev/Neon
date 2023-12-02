@@ -1,5 +1,5 @@
 # Neon
-```v20.6.0.9-Release```
+```v20.6.0.10-Release```
 ```Stable``` ```1.20.1```
 
 Happy summer!
@@ -12,14 +12,20 @@ A ```lightweight``` modpack for vanilla minecraft, with some nice tweaks and ser
 - Controlify comes with a huge range of settings to fine-tune each of your controllers individually, including vibration strength, every single controller input bind (no hardcoding!) and more.
 
 ### Changelog:
-- New! Add cave dust
+- Update CleanF3
+- Update ImmediatelyFast
 - Update betterstats
-- Update eating animation
 - Update fabric-api
 - Update fasterrandom
 - Update modernfix
-- Update smoothswapping
-- Update rethinking voxels
+- Update ComplementaryReimagined
+- New! Add ComplementaryUnbound
+- New! Add EpochShader
+- Update snowimagined
+- Update SoftVoxelsLite
+- Update Voyager shader
+- Update rethinking-voxels
+- Update superdupervanilla
 
 ## List of optimization and bugfix mods:
 ```
