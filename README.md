@@ -1,6 +1,8 @@
 # Neon
 ```v20.6.0.10-Release```
 ```Stable``` ```1.20.1```
+## Moved to codeberg
+https://codeberg.org/WasteLandOrigin/Neon
 
 Happy summer!
 
